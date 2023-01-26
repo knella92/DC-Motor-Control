@@ -12,3 +12,15 @@ A user interface was developed in Python to allow the user to choose from multip
 
 ## Video Demonstrations
 
+Demonstration of manually entered PWM duty cycle:
+
+
+
+
+
+Demonstration of the estimated effect of user-inputted PI gains on a cubic trajectory:
+
+
+
+
+Demonstration of the effect of user-inputted PI gains on a custom trajectory:
