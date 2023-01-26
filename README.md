@@ -17,10 +17,14 @@ Demonstration of manually entered PWM duty cycle:
 https://user-images.githubusercontent.com/58793794/214755435-ea6e3e60-29b0-498c-be0c-5b86ec19d457.mp4
 
 
-
 Demonstration of the estimated effect of user-inputted PI gains on a cubic trajectory:
 
-
+https://user-images.githubusercontent.com/58793794/214755678-d70ae90d-84be-4439-ac13-26a3cfc81aad.mp4
 
 
 Demonstration of the effect of user-inputted PI gains on a custom trajectory:
+
+
+https://user-images.githubusercontent.com/58793794/214755928-c4cf6261-695a-415d-8802-434be2077576.mp4
+
+
