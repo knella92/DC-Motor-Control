@@ -1,6 +1,5 @@
 # DC Motor Control Project
 ## Final Project for Introduction to Mechatronics
-## Kevin Nella
 
 ## Overview
 This was the final project developed for the ME 333 Introduction to Mechatronics class at Northwestern University during my Master's program.
