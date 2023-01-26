@@ -14,7 +14,7 @@ A user interface was developed in Python to allow the user to choose from multip
 
 Demonstration of manually entered PWM duty cycle:
 
-
+https://user-images.githubusercontent.com/58793794/214755435-ea6e3e60-29b0-498c-be0c-5b86ec19d457.mp4
 
 
 
