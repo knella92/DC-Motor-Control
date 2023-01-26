@@ -28,3 +28,5 @@ Demonstration of the effect of user-inputted PI gains on a custom trajectory:
 https://user-images.githubusercontent.com/58793794/214755928-c4cf6261-695a-415d-8802-434be2077576.mp4
 
 
+#### Disclaimer
+This project was not worked on through git - the repository was created after completion.
